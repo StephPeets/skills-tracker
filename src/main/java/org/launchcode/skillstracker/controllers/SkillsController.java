@@ -39,33 +39,33 @@ public class SkillsController {
 				"First:" +
 				"<br>" +
 				"<select name='first'>" +
-				"<option value='javascript'>JavaScript</option>" +
-				"<option value='java'>Java</option>" +
-				"<option value='python'>Python</option>" +
-				"<option value='kotlin'>Kotlin</option>" +
-				"<option value='go'>Go</option>" +
+				"<option value='JavaScript'>JavaScript</option>" +
+				"<option value='Java'>Java</option>" +
+				"<option value='Python'>Python</option>" +
+				"<option value='Kotlin'>Kotlin</option>" +
+				"<option value='Go'>Go</option>" +
 				"</select>" +
 				"<br>" +
 
 				"Second:" +
 				"<br>" +
 				"<select name='second'>" +
-				"<option value='javascript'>JavaScript</option>" +
-				"<option value='java'>Java</option>" +
-				"<option value='python'>Python</option>" +
-				"<option value='kotlin'>Kotlin</option>" +
-				"<option value='go'>Go</option>" +
+				"<option value='JavaScript'>JavaScript</option>" +
+				"<option value='Java'>Java</option>" +
+				"<option value='Python'>Python</option>" +
+				"<option value='Kotlin'>Kotlin</option>" +
+				"<option value='Go'>Go</option>" +
 				"</select>" +
 				"<br>" +
 
 				"Third:" +
 				"<br>" +
 				"<select name='third'>" +
-				"<option value='javascript'>JavaScript</option>" +
-				"<option value='java'>Java</option>" +
-				"<option value='python'>Python</option>" +
-				"<option value='kotlin'>Kotlin</option>" +
-				"<option value='go'>Go</option>" +
+				"<option value='JavaScript'>JavaScript</option>" +
+				"<option value='Java'>Java</option>" +
+				"<option value='Python'>Python</option>" +
+				"<option value='Kotlin'>Kotlin</option>" +
+				"<option value='Go'>Go</option>" +
 				"</select>" +
 				"<br>" +
 
