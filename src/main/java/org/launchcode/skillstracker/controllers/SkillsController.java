@@ -71,7 +71,6 @@ public class SkillsController {
 
 				"<input type='submit' value ='Submit'>" +
 				"</form>" +
-
 				"</body>" +
 				"</html>";
 	}
